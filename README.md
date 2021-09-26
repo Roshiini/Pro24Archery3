@@ -1,1 +1,1 @@
-# Pro24Archery3
+# project-C24-template
